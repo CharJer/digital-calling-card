@@ -624,7 +624,6 @@ body.dark-theme .btn-primary:hover {
 
 .qrcode-wrapper canvas,
 .qrcode-wrapper img {
-  display: block !important;
   width: 150px !important;
   height: 150px !important;
   min-width: 150px !important;
