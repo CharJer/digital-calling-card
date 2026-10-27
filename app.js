@@ -261,8 +261,8 @@ document.addEventListener('DOMContentLoaded', () => {
       // Use QRCode library
       qrCodeInstance = new QRCode(qrcodeBox, {
         text: qrPayload,
-        width: 140,
-        height: 140,
+        width: 150,
+        height: 150,
         colorDark: '#0f172a',
         colorLight: '#ffffff',
         correctLevel: QRCode.CorrectLevel.M
